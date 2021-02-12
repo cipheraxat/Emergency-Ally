@@ -11,6 +11,7 @@
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi3.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi4.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi5.png">
+- <img src ="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/app%20demo%20images/tweet%20api%20based%20results.jpeg">
 ## Functionalities
 - [x]  Input Emergency
 - [x]  Classification of emergency:Classifies your emergency to a bunch of other related emergency types 
