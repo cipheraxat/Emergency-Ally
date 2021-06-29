@@ -104,14 +104,6 @@ Result -
 Finding nearby emergency services using automation -
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi4.png">
 	
-	
-When no message is give in input the application gives an overview of the dataset in the home page
-
-![Overview of Training Dataset](images/overview_training_dataset.JPG)
-
-When a messagge is submitted with the **Classify Message** button the resulting categories are highlighted in green
-
-![Classification Result](images/classification_result.JPG)
 
 As shown in the **Overview of Training Dataset** section the dataset is highly imbalanced and that is the reason why the accuracy is high and the recall value is pretty low. To tackle and imbalanced dataset there are a lot of ways as shown in this really intresting [post](https://medium.com/james-blogs/handling-imbalanced-data-in-classification-problems-7de598c1059f)
 
