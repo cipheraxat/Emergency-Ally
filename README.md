@@ -5,11 +5,6 @@
 
 ---
 
-## Preview
-- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi2.png">
-- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi3.png">
-- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi4.png">
-- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi5.png">
 
 ## Functionalities
 - [x]  Input Emergency
@@ -91,14 +86,25 @@ Using sqlite3 command shell is possible to extract a dump of the database if nee
 
 `sqlite3> .quit`
 
-## Results
+## Results and Preview
 
 The dash application 
 
-![Home]
+Home
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/1.png">
+- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi2.png">
+	
+
+Result - 
+- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi3.png">
+- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi5.png">	
+	
 - <img src ="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/app%20demo%20images/tweet%20api%20based%20results.jpeg">	
 
+Finding nearby emergency services using automation -
+- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi4.png">
+	
+	
 When no message is give in input the application gives an overview of the dataset in the home page
 
 ![Overview of Training Dataset](images/overview_training_dataset.JPG)
