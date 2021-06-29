@@ -72,7 +72,7 @@ From the project folder run `python dash_disaster_response_pipeline.py` to start
 
 If the application does not find the **trained_classifier.pkl** pickle file to load the model it will check also if the database **db.sqlite3** present and if not process the data and finaly train the model (save it in **classifier/trained_classifier.pkl**) to get the application ready to classify messages in real time.
 
-![Flowchart](images/flowchart.png)
+![Flowchart](https://github.com/cipheraxat/Emergency-Ally/blob/main/flowchart.png)
 
 Flowchart made using [draw.io](https://about.draw.io/)
 
@@ -147,7 +147,7 @@ As shown in the **Overview of Training Dataset** section the dataset is highly i
 |         other_weather |    0.82   |   0.95   |  0.31  |   0.45   |   1293  |
 |           avg / total |    0.72   |   0.93   |  0.29  |   0.39   |  15679  |
 
-Results are better explained in this [blog post](https://medium.com/@simone.rigoni01/disaster-response-pipeline-with-figure-eight-a0addd696352)
+
 
 ## TODO
 
