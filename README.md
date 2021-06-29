@@ -6,12 +6,11 @@
 ---
 
 ## Preview
-- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/1.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi2.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi3.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi4.png">
 - <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/pi5.png">
-- <img src ="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/app%20demo%20images/tweet%20api%20based%20results.jpeg">
+
 ## Functionalities
 - [x]  Input Emergency
 - [x]  Classification of emergency:Classifies your emergency to a bunch of other related emergency types 
@@ -96,7 +95,9 @@ Using sqlite3 command shell is possible to extract a dump of the database if nee
 
 The dash application 
 
-![Home](images/home.JPG)
+![Home]
+- <img src="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/api%2Bwebapp/app%20demo%20images/1.png">
+- <img src ="https://github.com/harshgeek4coder/ICML-21-Emergency-Ally/blob/main/app%20demo%20images/tweet%20api%20based%20results.jpeg">	
 
 When no message is give in input the application gives an overview of the dataset in the home page
 
